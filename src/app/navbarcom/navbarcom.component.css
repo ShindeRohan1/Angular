@@ -1,0 +1,27 @@
+#outer{
+    width: 100%;
+
+    background-color: rgb(44, 120, 219);
+    
+ 
+   
+}
+#outer:hover{
+    background-color: rgb(131, 175, 232);
+ 
+   
+}
+#nav_container{
+    margin-left: 60vw;
+    padding: 6px;
+    
+   
+}
+.h{
+    margin: 4px;
+    background-color: black;
+    color: white;
+    font-weight: 200;
+    
+}
+
